@@ -3,3 +3,11 @@ POST http://localhost:3000/api/v2/users
 ###
 
 POST http://localhost:3000/api/v2/users/env
+
+###
+
+POST http://localhost:3000/api/v2/admin/login
+
+###
+
+POST http://localhost:3000/api/v2/admin/logout
