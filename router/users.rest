@@ -11,3 +11,15 @@ POST http://localhost:3000/api/v2/admin/login
 ###
 
 POST http://localhost:3000/api/v2/admin/logout
+
+###
+
+POST https://vercel-demo.awdr74100.vercel.app/api/v2/users
+
+###
+
+POST https://highbox.vercel.app/api/v2/users/env
+
+###
+
+POST https://highbox.vercel.app/api/v2/admin/login
